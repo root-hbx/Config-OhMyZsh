@@ -121,5 +121,5 @@ alias pyvenv="python -m venv myenv"
 alias activate="source myenv/bin/activate"%   
 ```
 #### mac
-我使用的主题是jonathan
-主题参见：[ohmyzsh_themes](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes)
+- 我使用的主题是jonathan
+- 主题参见：[ohmyzsh_themes](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes)
