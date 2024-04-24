@@ -2,8 +2,8 @@
 
 > updating on 25/04/2024
 
-
 ```bash
+
 # Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
 # Initialization code that may require console input (password prompts, [y/n]
 # confirmations, etc.) must go above this block; everything else may go below.
@@ -125,12 +125,18 @@ alias cls="clear"
 alias dk="cd ~/Desktop"
 alias cat="bat"
 alias df="duf"
+alias cd="z"
+alias ps="procs"
+alias gtop="glances"
+alias btop="btm"
+alias du="dust"
+alias ls="lsd"
+
 
 alias ll="ls -l"
 alias la="ls -a"
 alias lla="ls -la"
 alias lt="ls --tree"
-alias ls="lsd"
 
 alias sshclass="ssh 2223410945-ics@Class -p2291"
 alias sshlab="ssh bxhu@Lab -p2299"
@@ -149,6 +155,6 @@ eval "$(zoxide init zsh)"
 eval "$(fzf --zsh)"
 
 ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=yellow'
-
+eval "$(pyenv init -)"
 
 ```
