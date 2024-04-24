@@ -1,5 +1,5 @@
-# OhMyZsh-Conf
-> OhMyZsh-Conf is a configuration of Oh my zsh based on Linux and Macintosh
+# Config-OhMyZsh
+> Config-OhMyZsh is a configuration of Oh my zsh based on Linux and Macintosh
 
 ## Mac OS
 - My device: MacBook Pro M2, Sonoma 14.3.1
