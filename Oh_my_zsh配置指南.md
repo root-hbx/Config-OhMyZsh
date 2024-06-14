@@ -1,13 +1,15 @@
-### 简介
+## 简介
+
 参考：[oh_my_zsh主页](https://github.com/ohmyzsh/ohmyzsh)
 
-### 配置信息
+## 配置信息
+
 - 本文展示的zshrc分别是笔者的linux和mac电脑zsh配置文件，仅供参考
 - 如直接copy，记得要更改配置路径使其适配到自己的电脑
 
-### 最终配置
+## 最终配置
 
-#### linux
+### linux
 
 ```bash
 # If you come from bash you might have to change your $PATH.
@@ -124,8 +126,7 @@ alias cls="clear"
 alias pyvenv="python -m venv myenv"
 alias activate="source myenv/bin/activate"%   
 ```
-
-#### mac
+### mac
 
 - 我使用的主题是jonathan
 - 主题参见：[ohmyzsh_themes](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes)
